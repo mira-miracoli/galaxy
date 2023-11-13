@@ -55,6 +55,7 @@ ecdsa==0.17.0; python_version >= "2.6" and python_full_version < "3.0.0" or pyth
 edam-ontology==1.25.2
 fastapi-utils==0.2.1; python_version >= "3.6" and python_version < "4.0"
 fastapi==0.79.0; python_full_version >= "3.6.1"
+flower==2.0.1
 fs==2.4.16
 funcsigs==1.0.2
 future==0.18.2; (python_version >= "2.6" and python_full_version < "3.0.0") or (python_full_version >= "3.3.0")
